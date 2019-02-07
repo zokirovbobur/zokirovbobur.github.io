@@ -1,0 +1,42 @@
+body{
+    background-color: #626262;
+}
+#bodyDiv{
+    margin-top: 0px;
+    margin-left : 20vw;
+    margin-right: 20vw;
+}
+#navdiv{
+    margin: 5vw;
+}
+.navbar{
+    display: inline-block;
+    padding: 4vw;
+    list-style-type: none;
+    text-align: center; 
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
+.navbar a{
+    color: #999;
+    text-decoration: none;
+}
+#navdiv{
+    border: 1vw;
+    border-color: tomato;
+}
+#classes{
+    color:wheat;
+}
+h3,h2,p{
+    color:wheat;
+}
+.moods{
+    position: relative;
+    display: inline-block;
+}
+.moodDiv{
+    display: inline-block;
+}
